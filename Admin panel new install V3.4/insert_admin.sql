@@ -1,0 +1,1 @@
+INSERT INTO users (id, first_name, last_name, email, user_type, password, phone, is_active, created_at, updated_at) VALUES ('123e4567-e89b-12d3-a456-426614174000', 'Admin', 'User', 'admin@admin.com', 'super-admin', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '1234567890', 1, NOW(), NOW());
